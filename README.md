@@ -5,7 +5,7 @@ This Java program simulates an ATM machine. Users can authenticate with their us
 
 ### Instructions for Running the Program:
 1. Ensure you have Java installed on your system.
-2. Download the Main.java file.
+2. Download the User.java, ATM.java and Main.java file.
 3. Open a terminal or command prompt.
 4. Navigate to the directory containing the Main.java file.
 5. Compile the program using the command: javac Main.java
